@@ -1,0 +1,55 @@
+_repo: Book-of-illustrations---Ancient-Tragedy_19559
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Euripides
+    alias: Ευριπίδης
+    deathdate: &id001 -406
+    gutenberg_agent_id: '1680'
+    url: http://www.gutenberg.org/2009/agents/1680
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Euripides
+    - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
+  - agent_name: Sophocles
+    alias: Σοφοκλής
+    birthdate: -496
+    deathdate: *id001
+    gutenberg_agent_id: '26'
+    url: http://www.gutenberg.org/2009/agents/26
+    wikipedia: http://en.wikipedia.org/wiki/Sophocles
+  - agent_name: Aeschylus
+    aliases:
+    - Αἰσχύλος
+    - Αισχύλος
+    - Aischylos
+    birthdate: -525
+    deathdate: -456
+    gutenberg_agent_id: '2825'
+    url: http://www.gutenberg.org/2009/agents/2825
+    wikipedia: http://en.wikipedia.org/wiki/Aeschylus
+  - agent_name: Moulton, Richard G. (Richard Green)
+    alias: Moulton, R. G. (Richard Green)
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '8749'
+    url: http://www.gutenberg.org/2009/agents/8749
+description: ''
+gutenberg_issued: '2006-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek drama (Tragedy) -- Translations into English'
+- !lcc 'PA'
+tableOfContents: Story of Orestes / Aeschylus -- Electra / Sophocles -- Electra /
+  Euripides -- Alcestis / Euripides -- The Cyclops / Euripides -- The Bacchanals /
+  Euripides -- Miscellaneous passages.
+title: 'Book of illustrations : Ancient Tragedy'
+url: http://www.gutenberg.org/ebooks/19559
