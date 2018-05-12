@@ -7,7 +7,7 @@ creator:
   authors:
   - agent_name: Euripides
     alias: Ευριπίδης
-    deathdate: &id001 -406
+    deathdate: -406
     gutenberg_agent_id: '1680'
     url: http://www.gutenberg.org/2009/agents/1680
     wikipedia:
@@ -16,7 +16,7 @@ creator:
   - agent_name: Sophocles
     alias: Σοφοκλής
     birthdate: -496
-    deathdate: *id001
+    deathdate: -406
     gutenberg_agent_id: '26'
     url: http://www.gutenberg.org/2009/agents/26
     wikipedia: http://en.wikipedia.org/wiki/Sophocles
@@ -37,6 +37,8 @@ creator:
     gutenberg_agent_id: '8749'
     url: http://www.gutenberg.org/2009/agents/8749
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19559#Book-of-illustrations---Ancient-Tragedy
 gutenberg_issued: '2006-10-16'
 gutenberg_type: Text
 identifiers:
